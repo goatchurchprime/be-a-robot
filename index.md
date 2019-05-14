@@ -2,7 +2,8 @@
 <style>
   label {
     display:block;
-    width:100%;
+    width:90%;
+    padding-right:10%
   }
   textarea {
     width:100%;
